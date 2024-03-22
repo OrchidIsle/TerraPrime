@@ -41,7 +41,7 @@ You can add the TerraPrime plugin to your project either by cloning it as a Git 
     
     bashCopy code
     
-    `git submodule add https://github.com/YourTerraPrimeRepo/TerraPrime.git Plugins/TerraPrime` 
+    `git submodule add https://github.com/OrchiIsle/TerraPrime.git Plugins/TerraPrime` 
     
 4.  Initialize and update the submodule:
     
