@@ -103,6 +103,21 @@ Once you have successfully installed the TerraPrime Landscape AutoMaterial plugi
 
 By following these steps, you can effectively integrate and utilize the TerraPrime Landscape AutoMaterial in your Unreal Engine projects, enhancing your landscapes with dynamic texturing and advanced material effects.
 
+## // TODO: Upcoming Features and Enhancements
+
+The TerraPrime Landscape AutoMaterial plugin continues to advance, introducing new features and improvements to aid users in crafting more immersive environments within Unreal Engine. Below are the enhancements that we are excited to share with our community in the upcoming updates:
+
+-   **Public Domain Nanite-Enabled Landscape Grass and Foliage**: Efforts are underway to incorporate AAA quality, Nanite-enabled grass and foliage assets that fall under the public domain. This initiative aims to equip users with the ability to enhance their landscapes with lifelike, high-detail vegetation that leverages the full potential of UE5's Nanite technology for superior visual quality and performance.
+    
+-   **Landscape Grass Foliage Templates**: In our upcoming updates, we plan to introduce an array of landscape grass foliage templates. These predefined configurations are designed for ease of customization and application, enabling users to effortlessly impart a more authentic natural appearance to various landscapes and ecosystems.
+    
+-   **Procedural Content Generation (PCG) Templates and Meshes**: We are developing initial PCG templates and meshes that are tailored for distinct biomes and climates. This collection will support users in rapidly creating diverse settings — from dense, verdant jungles to barren, sandy dunes — each with their own unique characteristics and environmental elements.
+    
+-   **Expanded Cell Bombing Techniques**: We are also expanding our repertoire of cell bombing techniques to further diminish texture repetition and augment the uniqueness of each landscape. These upcoming techniques will offer users additional strategies to ensure every terrain is distinct and visually engaging, avoiding the common pitfalls of homogeneity.
+    
+
+These forthcoming features are aimed at bolstering the flexibility and accessibility of the TerraPrime Landscape AutoMaterial plugin, enabling creators to forge more detailed and varied virtual landscapes with ease. We're excited for you to experience these enhancements and look forward to bringing more dynamic and interactive elements to your Unreal Engine projects. Stay tuned for future updates and developments!
+
 ## Support
 
 For issues, questions, or contributions, please refer to the TerraPrime repository on GitHub or contact the support team through the Unreal Engine forums.
