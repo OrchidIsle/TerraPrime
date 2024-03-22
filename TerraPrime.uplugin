@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "TerraPrime",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Edward Teach",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TerraPrime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
