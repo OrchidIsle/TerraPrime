@@ -5,7 +5,7 @@
 
   
 
-#### A UE5.4 AutoMaterial & PCG Template Plugin
+#### An Unreal Engine 5.4+ AutoMaterial & PCG Template Plugin
 
   
 
