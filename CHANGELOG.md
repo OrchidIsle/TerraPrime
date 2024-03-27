@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased](https://github.com/OrchidIsle/TerraPrime/compare/0.2.1...HEAD)
+## [Unreleased]
 
-## [0.2.1](https://github.com/OrchidIsle/TerraPrime/compare/0.2.0...0.2.1) - YYYY-MM-DD
+## [0.2.1] - YYYY-MM-DD
 
 ### Added
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 -   Modified material setup to apply height blend before landscape layer blending, fixing issues related to painting height-based layers.
 
-## [0.2.0](https://github.com/OrchidIsle/TerraPrime/compare/0.1.0...0.2.0) - 2024-03-25
+## [0.2.0] - 2024-03-25
 
 ### Added
 
@@ -54,3 +54,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
+
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/OrchidIsle/TerraPrime/releases/tag/v0.1.0
