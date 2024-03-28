@@ -1,9 +1,11 @@
 
 # TerraPrime
 
-[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) [![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
-
  **An Unreal Engine 5.4+ AutoMaterial & PCG Template Plugin**
+
+## Downloads
+
+[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) [![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
  
 ## Overview
 
