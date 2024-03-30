@@ -1,18 +1,29 @@
 #include "TerraNanite.h"
 #include "Engine/Engine.h"
 
+FOnNaniteTessellationChanged UTerraNanite::OnNaniteTessellationChanged;
+
 void UTerraNanite::SetNaniteTessellationEnabled(bool bEnabled)
 {
-    if (GEngine)
+    bool bCurrentlyEnabled = IsNaniteTessellationEnabled();
+    if (bCurrentlyEnabled != bEnabled)
     {
-        GEngine->Exec(nullptr, *FString::Printf(TEXT("r.Nanite.Tessellation %d"), bEnabled ? 1 : 0));
+        if (GEngine)
+        {
+            GEngine->Exec(nullptr, *FString::Printf(TEXT("r.Nanite.Tessellation %d"), bEnabled ? 1 : 0));
+        }
+
+        // Broadcast the change
+        OnNaniteTessellationChanged.Broadcast(bEnabled);
     }
 }
 
 bool UTerraNanite::IsNaniteTessellationEnabled()
 {
     IConsoleVariable* CVar = IConsoleManager::Get().FindConsoleVariable(TEXT("r.Nanite.Tessellation"));
-    return CVar && CVar->GetInt() != 0;
+    bool bEnabled = CVar && CVar->GetInt() != 0;
+
+    return bEnabled;
 }
 
 void UTerraNanite::ToggleNaniteTessellation()
