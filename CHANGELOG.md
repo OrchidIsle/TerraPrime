@@ -7,6 +7,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [0.3.0] - 2024-04-02
+
+### Added
+
+-   **Ambient Occlusion Support**: Enhanced realism with the addition of ambient occlusion, improving the visual depth and detail in shadows.
+-   **ORDp File Integration**: Finalized support for ORDp files, allowing for comprehensive layer support and more detailed terrain customization.
+-   **C++ Support and Blueprint Nodes for Nanite Tessellation**: Introduced C++ support alongside Blueprint nodes to dynamically toggle Nanite tessellation (r.Nanite.Tessellation) at runtime, offering improved control over performance and visual quality.
+-   **Heightmap Resources**: Added all raw heightmaps used in demos into the `Textures/Heightmaps` folder, providing users with essential resources for terrain creation.
+
+### Changed
+
+-   **Updated Default Material and Layer Templates**: Refined the default material and updated the dirt/grass layers template to enhance the base visual quality and provide a more robust starting point for terrain development.
+-   **Refactored Blueprints and Landscape Grass Foliage Integration**: Completely rewrote and optimized Blueprints for better performance and reliability. Finalized the integration of landscape grass foliage, tailored for efficiently handling small, scattered foliage across layers.
+
+### Removed
+
+-   **Paint Layers**: Temporarily removed paint layers functionality. This feature is planned to be re-added in the next update with improvements.
+
 
 ## [0.2.2] - 2024-03-27
 
@@ -80,7 +98,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
 
-[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/OrchidIsle/TerraPrime/releases/tag/v0.1.0
