@@ -7,6 +7,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [0.4.0] - 2024-04-09
+
+### Added
+
+- **Additional Paint Layers**: Introduced three new paint layers to materials, expanding the versatility and customization options for terrain detailing.
+- **Edge Noise for Layers**: Added edge noise to each layer, enhancing the realism and visual complexity of terrain surfaces.
+- **RGB Noise Masks**: Included additional RGB noise masks, offering more options for texture variation and landscape diversity.
+
+### Changed
+
+- **Sample Textures Resolution**: Downgraded sample textures to 2K resolution for size considerations, successfully reducing the plugin size by 650MB without compromising significant visual quality.
+
+### Removed
+
+- **Triplanar Mapping**: Removed triplanar mapping support due to incompatibility with Nanite, focusing on features fully supported by Unreal Engine's advanced rendering system.
+
+### Maintenance
+
+- **Orphaned Large Files**: Conducted a purge of old, large files from the project history to streamline the plugin. The complete commit history has been retained in the pre-0.4.0 branch for archival purposes.
+
+
 ## [0.3.0] - 2024-04-02
 
 ### Added
@@ -98,7 +119,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
 
-[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...HEAD
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.1.0...v0.2.0
