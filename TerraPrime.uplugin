@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 5,
+	"VersionName": "0.3.0",
+	"FriendlyName": "TerraPrime",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Edward Teach",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TerraPrime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
