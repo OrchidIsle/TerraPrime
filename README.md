@@ -19,6 +19,8 @@ Crafted for next-gen game development and virtual environments, TerraPrime autom
 - An array of predefined landscape layers including Dirt, Cliff, Grass, Snow, Beach, and Seabed, plus customizable Paint Layers for bespoke designs.
 - Advanced material techniques such as distance variation, macro and normal variation, and cell bombing for lifelike terrain textures.
 - Height-defined layer blending for natural transitions between different terrains such as snow-capped mountains and sandy shores.
+- **New in 0.4.0**: Added edge noise to each layer and additional RGB noise masks for more texture variation options.
+- **New in 0.3.0**: Added support for ambient occlusion, finalized integration for ORDp files, and introduced dynamic control over Nanite tessellation at runtime.
 - TerraPrime is tailored for developers and designers aiming to elevate their landscapes to the next generation of gaming and simulation.
 
 ### Landscape Layers
@@ -32,6 +34,7 @@ Crafted for next-gen game development and virtual environments, TerraPrime autom
 -  **Paint Layer 1**
 -  **Paint Layer 2**
 -  **Paint Layer 3**
+-  **New in 0.4.0**: Three additional customizable paint layers.
 
 ## System Recommendations
 
@@ -54,6 +57,7 @@ Before installing TerraPrime, ensure you have the following:
 - Basic understanding of Unreal Engine project structure and plugin integration.
 
 ## Installation Instructions
+
 
 You can add the TerraPrime plugin to your project either by cloning it as a Git submodule or by manually downloading it as a ZIP file and adding it to your project.
 
