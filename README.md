@@ -35,9 +35,7 @@ TerraPrime is a revolutionary landscape automaterial and procedural content gene
 -  
 For a detailed list of features and updates, please visit our [Wiki](https://github.com/OrchidIsle/TerraPrime/wiki).
 
-## Getting Started
-
-### System Recommendations
+## System Recommendations
 
 For the best experience with TerraPrime, we recommend the following system specifications:
 - **CPU**: Intel i7 or AMD Ryzen 7, 3.0 GHz or faster
@@ -45,11 +43,11 @@ For the best experience with TerraPrime, we recommend the following system speci
 - **RAM**: 32GB or higher
 - **Storage**: NVMe SSD with at least 100GB of free space
 
-### Installation
+## Installation
 
 TerraPrime can be integrated into your project either by cloning it as a Git submodule or by downloading it as a ZIP file. For step-by-step instructions, refer to our [Installation Guide](https://github.com/OrchidIsle/TerraPrime/wiki/Installation-Guide).
 
-### Usage
+## Usage
 
 To start using TerraPrime and enhancing your landscapes, check out our comprehensive [Usage Guidelines](https://github.com/OrchidIsle/TerraPrime/wiki/How-to-Use) in the wiki.
 
