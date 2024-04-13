@@ -136,7 +136,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
 
-[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.1...HEAD
+[0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1
