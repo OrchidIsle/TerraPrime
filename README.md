@@ -2,7 +2,7 @@
 
 **An Unreal Engine 5.4+ AutoMaterial & PCG Template Plugin**
 
-TerraPrime is a revolutionary landscape automaterial and procedural content generation (PCG) plugin for Unreal Engine 5.4+, designed to automate the texturing process and enable the seamless blending of terrain layers. With features like Nanite support and Lumen integration, TerraPrime pushes the boundaries of realism in virtual worlds, making it an essential tool for next-gen game development and virtual environments.
+TerraPrime is a state-of-the-art landscape automaterial and procedural content generation (PCG) plugin designed for Unreal Engine 5.4 and above. Engineered to streamline the texturing process and support seamless terrain layer blending, TerraPrime is under active development and maintenance for use in our upcoming TBA game while also being shared with the open-source community to enhance through collaborative input and pull requests. Although it includes only low-resolution (2K) textures and placeholder assets to keep the package size manageable, TerraPrime is intended to be used with user-provided high-resolution, Nanite-supported materials and textures. Integrating advanced features such as support for Unreal Engine’s Nanite and Lumen technologies, TerraPrime significantly pushes the boundaries of realism in virtual worlds, making it an indispensable tool for developers aiming to pioneer next-generation game environments and virtual simulations.
 
 ## Release & Demo Downloads :arrow_down:
 
