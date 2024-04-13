@@ -64,7 +64,7 @@ Each map is designed to demonstrate TerraPrime’s seamless blending of terrain 
 
 For detailed instructions on how to navigate and utilize the demo, including character controls and specific features of each map, please refer to our [Demo Usage Guide](https://github.com/OrchidIsle/TerraPrime/wiki/Demo-Guide).
 
-Download the demo today to start exploring the advanced capabilities of TerraPrime and see how it can transform your landscape projects in Unreal Engine.
+[Download the demo](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip) today to start exploring the advanced capabilities of TerraPrime and see how it can transform your landscape projects in Unreal Engine.
 
 ## Known Issues :warning:
 
