@@ -32,7 +32,7 @@ TerraPrime is a revolutionary landscape automaterial and procedural content gene
 -  **Paint Layer 2**
 -  **Paint Layer 3**
 -  **New in 0.4.0**: Three additional customizable paint layers.
--  
+
 For a detailed list of features and updates, please visit our [Wiki](https://github.com/OrchidIsle/TerraPrime/wiki).
 
 ## System Recommendations
