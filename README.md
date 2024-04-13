@@ -43,7 +43,7 @@ For the best experience with TerraPrime, we recommend the following system speci
 
 TerraPrime can be integrated into your project by cloning as a Git submodule or by downloading it as a ZIP file. For step-by-step instructions, refer to our [Installation Guide](https://github.com/OrchidIsle/TerraPrime/wiki/Installation-Guide).
 
-## Usage :memo:
+## How to Use :memo:
 
 Enhance your landscapes with TerraPrime by following our comprehensive [Usage Guidelines](https://github.com/OrchidIsle/TerraPrime/wiki/How-to-Use) in the wiki.
 
