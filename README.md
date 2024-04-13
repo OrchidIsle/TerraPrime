@@ -4,7 +4,12 @@
 
 TerraPrime is a revolutionary landscape automaterial and procedural content generation (PCG) plugin for Unreal Engine 5.4+, designed to automate the texturing process and enable the seamless blending of terrain layers. With features like Nanite support and Lumen integration, TerraPrime pushes the boundaries of realism in virtual worlds, making it an essential tool for next-gen game development and virtual environments.
 
-### Key Features :sparkles:
+## Release & Demo Downloads :arrow_down:
+
+[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
+[![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
+
+## Key Features :sparkles:
 
 - **Seamless UE 5.4+ Integration**: Optimized for Nanite and Lumen.
 - **Landscape Layers**: Dirt, Cliff, Grass, Snow, Beach, Seabed, and customizable Paint Layers.
@@ -25,11 +30,6 @@ For a detailed list of features and updates, please visit our [Wiki](https://git
 - :x: **Known Limitation**: The significant unresolved issue at present is the integration of Runtime Virtual Texturing (RVT) with Nanite object blending.
 
 Stay tuned as we continue to enhance and expand TerraPrime's capabilities for the cutting edge of landscape design! :telescope:
-
-## Release & Demo Downloads :arrow_down:
-
-[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
-[![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
 
 ## System Recommendations :computer:
 
