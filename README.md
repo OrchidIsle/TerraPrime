@@ -2,6 +2,8 @@
 
 **An Unreal Engine 5.4+ AutoMaterial & PCG Template Plugin**
 
+TerraPrime is a revolutionary landscape automaterial and procedural content generation (PCG) plugin for Unreal Engine 5.4+, designed to automate the texturing process and enable the seamless blending of terrain layers. With features like Nanite support and Lumen integration, TerraPrime pushes the boundaries of realism in virtual worlds, making it an essential tool for next-gen game development and virtual environments.
+
 ## Release & Demo Downloads :arrow_down:
 
 [![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
@@ -16,10 +18,6 @@
 - :x: **Known Limitation**: The significant unresolved issue at present is the integration of Runtime Virtual Texturing (RVT) with Nanite object blending.
 
 Stay tuned as we continue to enhance and expand TerraPrime's capabilities for the cutting edge of landscape design! :telescope:
-
-## Overview :mag:
-
-TerraPrime is a revolutionary landscape automaterial and procedural content generation (PCG) plugin for Unreal Engine 5.4+, designed to automate the texturing process and enable the seamless blending of terrain layers. With features like Nanite support and Lumen integration, TerraPrime pushes the boundaries of realism in virtual worlds, making it an essential tool for next-gen game development and virtual environments.
 
 ### Key Features :sparkles:
 
@@ -48,6 +46,25 @@ TerraPrime can be integrated into your project by cloning as a Git submodule or 
 ## Usage :memo:
 
 Enhance your landscapes with TerraPrime by following our comprehensive [Usage Guidelines](https://github.com/OrchidIsle/TerraPrime/wiki/How-to-Use) in the wiki.
+
+## Demo Overview
+
+Explore the capabilities of TerraPrime with our interactive demo, available for download. The demo includes three distinct maps, each designed to showcase different features of the TerraPrime plugin:
+
+- **Open World Basic**: Experience the base functionality of TerraPrime with standard Unreal Engine landscapes.
+- **Open World Nanite**: See the power of Nanite integration for enhanced terrain detail.
+- **Open World Nanite with Foliage**: Discover the dynamic auto-layer landscape grass system with various environmental elements added for realism.
+
+Each map is designed to demonstrate TerraPrime’s seamless blending of terrain layers and advanced material techniques, giving you a hands-on understanding of how to elevate your projects.
+
+### Demo Controls and Features
+- **Switch Maps**: Easily switch between different demo environments.
+- **Performance Monitoring**: Toggle performance stats to evaluate TerraPrime's impact on frame rates and other metrics.
+- **Dynamic Nanite Tessellation**: Experience real-time adjustments in landscape detail.
+
+For detailed instructions on how to navigate and utilize the demo, including character controls and specific features of each map, please refer to our [Demo Usage Guide](https://github.com/OrchidIsle/TerraPrime/wiki/Demo-Guide).
+
+Download the demo today to start exploring the advanced capabilities of TerraPrime and see how it can transform your landscape projects in Unreal Engine.
 
 ## Known Issues :warning:
 
