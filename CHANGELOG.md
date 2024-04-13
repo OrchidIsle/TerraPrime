@@ -7,6 +7,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [0.4.1] - 2024-04-13
+
+### Added
+- **Additional Noise Masks for Snow**: Introduced an additional noise mask specifically tailored for snow textures to enhance realism in snowy landscapes.
+- **More Blurred Edge Noise Mask for Snow**: Added a more blurred edge noise mask to improve the visual transition at the boundaries of snow-covered areas.
+
+### Changed
+- **Nanite Displacement Defaults**: Updated the default settings for Nanite displacement to optimize performance and visual quality.
+- **Snow Slope Mask Independence**: Made the snow slope mask independent of the cliff mask to allow for more distinct and customizable terrain blending.
+
+### Fixed
+- **Displacement Issues**: Addressed and corrected issues with displacement settings that affected landscape realism and fidelity.
+- **Foliage Layer Issues**: Resolved problems with foliage layer rendering that impacted visual accuracy and performance.
+- **Foliage Default Settings**: Fixed the default settings for foliage to ensure better integration and appearance within diverse environments.
+- **Demo Settings Tweaks**: Adjusted settings within the demo to refine the user experience and showcase the capabilities of TerraPrime more effectively.
+
+
 ## [0.4.0] - 2024-04-09
 
 ### Added
@@ -119,7 +136,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
 
-[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.1...HEAD
+[0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1
