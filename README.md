@@ -4,21 +4,6 @@
 
 TerraPrime is a revolutionary landscape automaterial and procedural content generation (PCG) plugin for Unreal Engine 5.4+, designed to automate the texturing process and enable the seamless blending of terrain layers. With features like Nanite support and Lumen integration, TerraPrime pushes the boundaries of realism in virtual worlds, making it an essential tool for next-gen game development and virtual environments.
 
-## Release & Demo Downloads :arrow_down:
-
-[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
-[![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
-
-## Disclaimer :warning:
-
-**TerraPrime**: Optimized for Next-Gen Capabilities! :rocket:
-
-- :computer: **High-End Requirements**: Primarily developed with Unreal Engine's Nanite and Lumen technologies in mind, TerraPrime is tailored for mid-to-high range systems.
-- :construction: **Nanite in Experimental Stage**: Features involving Nanite, especially tessellation, are currently experimental. Full functionality is anticipated around Unreal Engine versions 5.6 or 5.7.
-- :x: **Known Limitation**: The significant unresolved issue at present is the integration of Runtime Virtual Texturing (RVT) with Nanite object blending.
-
-Stay tuned as we continue to enhance and expand TerraPrime's capabilities for the cutting edge of landscape design! :telescope:
-
 ### Key Features :sparkles:
 
 - **Seamless UE 5.4+ Integration**: Optimized for Nanite and Lumen.
@@ -30,6 +15,21 @@ Stay tuned as we continue to enhance and expand TerraPrime's capabilities for th
 - **C++ Classes and Blueprint Nodes**: For advanced control over features like Nanite tessellation.
 
 For a detailed list of features and updates, please visit our [Wiki](https://github.com/OrchidIsle/TerraPrime/wiki).
+
+## Disclaimer :warning:
+
+**TerraPrime**: Optimized for Next-Gen Capabilities! :rocket:
+
+- :computer: **High-End Requirements**: Primarily developed with Unreal Engine's Nanite and Lumen technologies in mind, TerraPrime is tailored for mid-to-high range systems.
+- :construction: **Nanite in Experimental Stage**: Features involving Nanite, especially tessellation, are currently experimental. Full functionality is anticipated around Unreal Engine versions 5.6 or 5.7.
+- :x: **Known Limitation**: The significant unresolved issue at present is the integration of Runtime Virtual Texturing (RVT) with Nanite object blending.
+
+Stay tuned as we continue to enhance and expand TerraPrime's capabilities for the cutting edge of landscape design! :telescope:
+
+## Release & Demo Downloads :arrow_down:
+
+[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
+[![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
 
 ## System Recommendations :computer:
 
