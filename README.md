@@ -21,6 +21,24 @@ TerraPrime is a state-of-the-art landscape automaterial and procedural content g
 
 For a detailed list of features and updates, please visit our [Wiki](https://github.com/OrchidIsle/TerraPrime/wiki).
 
+## In Development :construction:
+
+We are actively developing a comprehensive **PCG Biome System** that integrates seamlessly with our landscape automaterial, enhancing environmental diversity with a variety of biomes and dynamic landscape features:
+
+### Biomes
+- **Forest**, **Desert**, **Mountain**, **Grassland**, **Swamp**
+- **Arctic**, **Jungle**, **Tropical Beach**, **Seabed/Underwater**
+- **Cliff**, **Wetlands & Marshes**, **Volcanic**, **Agricultural Fields**
+
+### Landscape Features
+- **Rivers & Streams**
+- **Ravines & Gorges**
+- **Rock Formations**
+- **Caves & Underground Systems**
+- **Lava Flow**
+
+Each biome and feature is designed to provide realistic and engaging environments that respond dynamically to gameplay and environmental conditions.
+
 ## Disclaimer :warning:
 
 **TerraPrime**: Optimized for Next-Gen Capabilities! :rocket:
