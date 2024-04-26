@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [0.4.2] - 2024-04-18
+
+### Added
+- **8K Demo Heightmap**: Introduced an 8K resolution heightmap to the plugin, providing users with a high-resolution terrain model for advanced testing and demonstration purposes. This addition is part of our efforts to enhance visual fidelity and detail in demo environments.
+
+### Changes
+- **Final Preparations for Unreal Engine 5.4.0**: Finalized all features and optimizations to ensure full compatibility and performance optimization with the official release of Unreal Engine 5.4.0. This update solidifies TerraPrime's readiness for next-gen game development, supporting the latest advancements in Unreal Engine technology.
+
 ## [0.4.1] - 2024-04-13
 
 ### Added
@@ -136,8 +144,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Updated README.md multiple times to refine project documentation and provide clear setup and usage guidelines.
 -   Added "todo" section in README for future development plans and feature additions.
 
-[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.1...HEAD
-[0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...v0.4.1
+[Unreleased]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.2...HEAD
+[0.4.2]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.1...v0.4.2
+[0.4.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/OrchidIsle/TerraPrime/compare/v0.2.0...v0.2.1

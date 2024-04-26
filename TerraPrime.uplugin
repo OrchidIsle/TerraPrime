@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 7,
-	"VersionName": "0.4.1",
+	"Version": 8,
+	"VersionName": "0.4.2",
 	"FriendlyName": "TerraPrime",
 	"Description": "",
 	"Category": "Other",
@@ -25,6 +25,24 @@
 				"Mac",
 				"Linux"
 			]
+		}
+	],
+        "Plugins": [
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGExternalDataInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGGeometryScriptInterop",
+			"Enabled": true
 		}
 	]
 }
