@@ -9,7 +9,7 @@ TerraPrime is a state-of-the-art landscape automaterial and procedural content g
 [![Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg?style=for-the-badge&logo=github)](https://github.com/OrchidIsle/TerraPrime/releases/latest) 
 [![Latest Demo](https://img.shields.io/badge/download-latest%20demo-brightgreen.svg?style=for-the-badge&logo=unrealengine)](https://download.orchidisle.games/TerraPrimeDemo/TerraPrimeDemo-Win64-Latest.zip)
 
-**:warning: DEMO IS 4GB. NANITE TESSELLATED DEMO MAPS ARE GPU INTENSIVE AND CONTAIN ZERO OPTIMIZATIONS. DLSS and FSR will be added to the demo as they become available in Unreal Engine 5.4.**
+**:warning: DEMO IS 4GB. NANITE TESSELLATED DEMO MAPS ARE GPU INTENSIVE AND CONTAIN ZERO PERFORMANCE OPTIMIZATIONS BEYOND STANDARD SETTINGS TO PROVIDE A GOOD BASELINE. DLSS and FSR will be added to the demo as they become available in Unreal Engine 5.4.**
 
 ## Key Features :sparkles:
 
